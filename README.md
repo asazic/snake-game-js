@@ -1,1 +1,2 @@
-# snake-game-js
+# SNAKE GAME (HTML + CSS + JAVASCRIPT/JQUERY)
+
